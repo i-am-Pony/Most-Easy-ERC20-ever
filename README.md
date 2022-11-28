@@ -1,2 +1,2 @@
-# The-EZest-ERC20-ever
-The Easiest ERC20 contract that works.
+# The-EZest-ERCs-ever
+The Easiest ERC contracts that work.
