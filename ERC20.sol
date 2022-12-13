@@ -11,8 +11,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 // Change the "Name" and upto 5 letter "Symbol" for your token.
 // symbol should be in all capitals
 contract Name is ERC20 {
-    constructor(uint256 initialSupply) ERC20("Name", "Swix.com
-    ymbol") {
+    constructor(uint256 initialSupply) ERC20("Name", "Symbol") {
         _mint(msg.sender, initialSupply);
     }
 }
